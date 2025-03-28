@@ -43,7 +43,7 @@ for i in map(lambda x: x[1:].upper() if x[0] == "!" else x.lower(), seq):
         1
         -2
         9
-        -4
+         -4
         25
         -6
         49
