@@ -33,9 +33,6 @@ class Circle:
    def calculate_area(self, radius):
        return self.pi*radius**2
 
-# asd = Circle()
-# print(asd.calculate_area(2))
-
 code = []
 while data := input():
    code.append(data)
